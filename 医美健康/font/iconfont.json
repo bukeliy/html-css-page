@@ -1,0 +1,79 @@
+{
+  "id": "2974285",
+  "name": "医美健康",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "705665",
+      "name": "房子",
+      "font_class": "fangzi",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "1642560",
+      "name": "徽章",
+      "font_class": "badge",
+      "unicode": "e682",
+      "unicode_decimal": 59010
+    },
+    {
+      "icon_id": "1721647",
+      "name": "徽章-1",
+      "font_class": "insignia-",
+      "unicode": "e6c0",
+      "unicode_decimal": 59072
+    },
+    {
+      "icon_id": "2672189",
+      "name": "全部",
+      "font_class": "quanbu",
+      "unicode": "e650",
+      "unicode_decimal": 58960
+    },
+    {
+      "icon_id": "6446108",
+      "name": "写文章",
+      "font_class": "tianchongxing-",
+      "unicode": "e62d",
+      "unicode_decimal": 58925
+    },
+    {
+      "icon_id": "11641871",
+      "name": "箭头",
+      "font_class": "jiantou",
+      "unicode": "e61d",
+      "unicode_decimal": 58909
+    },
+    {
+      "icon_id": "12464872",
+      "name": "联系人",
+      "font_class": "lianxiren",
+      "unicode": "e814",
+      "unicode_decimal": 59412
+    },
+    {
+      "icon_id": "12754195",
+      "name": "右箭头",
+      "font_class": "youjiantou_huaban",
+      "unicode": "e63e",
+      "unicode_decimal": 58942
+    },
+    {
+      "icon_id": "12754197",
+      "name": "左箭头",
+      "font_class": "zuojiantou_huaban",
+      "unicode": "e63f",
+      "unicode_decimal": 58943
+    },
+    {
+      "icon_id": "17810443",
+      "name": "icon_表单联系人",
+      "font_class": "icon_biaodanlianxiren",
+      "unicode": "e629",
+      "unicode_decimal": 58921
+    }
+  ]
+}

@@ -1,0 +1,718 @@
+a{
+	text-decoration: none;
+}
+li{
+	list-style: none;
+}
+*{
+	padding: 0;
+	margin: 0;
+}
+#container{
+	width: 1000px;
+	height: 4214px;
+	margin: 0 auto;
+}
+#header #headest .nav .banner .than .procenter .news .shows .show #foot{
+	width: 100%;
+}
+/* 这是顶部 */
+#headest{
+	height: 30px;
+	font-size: 10px;
+	background-color: #DCDCDC;
+}
+#headest span{
+	margin-left: 80px;
+}
+#headest p{
+	margin-top: -10px;
+	margin-left: 750px;
+}
+/* 这是头部 */
+#header{
+	height: 70px;
+}
+#header .logo{
+	margin-left: 80px;
+}
+#header p{
+	color: #CC0000;
+	font-weight: bolder;
+	margin-top: -30px;
+	margin-left: 400px;
+}
+#header .phone{
+	margin-top: -30px;
+	margin-left: 760px;
+}
+/* 这是导航栏 */
+#nav{
+	height: 35px;
+	color: #FFFFFF;
+	background-color: #cc0000;
+}
+#nav ul{
+	width: 735px;
+	height: 35px;
+	margin-left: 100px;
+}
+#nav ul a li{
+	width: 80px;
+	height: 35px;
+	color: #FFFFFF;
+	display: inline-block;
+	text-align: center;
+	line-height: 35px;
+	margin-left: 10px;
+}
+/* 这是banner图 */
+.banner{
+	height: 300px;
+}
+/* 这是我们的专业服务 */
+.reseve{
+	height:430px;
+	color: #FFFFFF;
+}
+.ct{
+	padding-top: 30px;
+	margin-left: 350px;
+}
+.reseve ul{
+	width: 960px;
+	height:300px;
+	margin-top: 70px;
+	margin-left: 45px;
+}
+.reseve ul li{
+	width: 200px;
+	height:200px;
+	display: inline-block;
+	margin-left: 15px;
+	background-color: #CC0000;
+}
+.reseve ul li img{
+	width: 100px;
+	height:100px;
+	margin-left: 50px;
+	margin-top: -50px;
+	border: 3px solid #FFFFFF;
+	border-radius: 50%;
+}
+.reseve ul li button{
+	width: 115px;
+	height:35px;
+	border-radius: 20px;
+	border: 0;
+	color: #FFFFFF;
+	margin-left: 35px;
+	margin-top: 30px;
+	background-color: #ff3333;
+}
+.reseve ul li h3{
+	text-align: center;
+}
+.reseve ul li span{
+	margin-top: 15px;
+	margin-left: 35px;
+	font-size: 10px;
+}
+.reseve ul li p{
+	margin-top: 15px;
+	font-size: 10px;
+	text-align: center;
+}
+.reseve ul li hr{
+	width: 125px;
+	margin: 15px 30px;
+	background-color: #FF3333;
+	border: 1px solid #FF3333;
+}
+/* 这是关于我们 */
+.aboutus{
+	height:390px;
+	background-color:#333333;
+}
+.aboutus .font{
+	width:825px ;
+	height: 260px;
+	margin-left: 120px;
+} 
+.aboutus .font h3{
+	color: #FFFFFF;
+	padding-top: 15px;
+} 
+.aboutus .font div{
+	width:500px ;
+	height: 110px;
+	color: #FFFFFF;
+	margin-top: 25px;
+} 
+.aboutus .font div p{
+	text-indent: 2em;
+	line-height: 22px;
+} 
+.aboutus .font img{
+	margin-top: -120px;
+	margin-left: 530px;
+} 
+.aboutus .font button{
+	border: 0;
+	position: relative;top: -50px;
+	color: #666666;
+	background-color: #333333;
+} 
+/* 这是我们的服务案例 */
+.case{
+	height:520px;
+}
+.case table{
+	width: 830px;
+	height:330px;
+	margin: 0 auto;
+	margin-top: 30px;
+}
+.case ul{
+	width: 300px;
+	height: 20px;
+	display: inline-block;
+	margin-top: 20px;
+	margin-left: 600px;
+}
+.case ul li{
+	width: 55px;
+	height: 20px;
+	font-size: 10px;
+	display: inline-block;
+}
+ /* 这是6大专业优势 */
+ .longer{
+	 height: 525px;
+	 background-color: #333333;
+ }
+ .longer ul{
+	 width: 840px;
+ 	 height: 370px;
+	 margin: 20px 80px;
+ }
+ .longer ul li{
+ 	 width: 260px;
+ 	 height: 165px;
+	 display: inline-block;
+	 background-color: #2E8B57;
+	 margin-left: 10px;
+	 margin-top: 10px;
+ }
+ .longer ul li h3{
+ 	 text-align: center;
+ 	 margin-top: 30px;
+ }
+ .longer ul li span{
+ 	 margin: 30px 100px;
+ }
+ .longer ul li p{
+ 	 text-align: center;
+	 font-size: 12px;
+ }
+ .longer ul .lg1{
+ 	background: url(../img/major1.jpg)no-repeat;
+ }
+ .longer ul .lg2{
+	 position: relative;top: -17px;
+ 	background: url(../img/major2.jpg)no-repeat;
+ }
+ .longer ul .lg3{
+ 	background: url(../img/major3.jpg)no-repeat;
+ }
+ .longer ul .lg4{
+ 	background: url(../img/major4.jpg)no-repeat;
+ }
+ .longer ul .lg5{
+	 position: relative;top: -17px;
+ 	background: url(../img/major5.jpg)no-repeat;
+ }
+ .longer ul .lg6{
+ 	background: url(../img/major6.jpg)no-repeat;
+ }
+ /* 这是行业资深设计团队 */
+ .team{
+	 height: 420px;
+ }
+ .team table{
+	 width: 815px;
+ 	 height: 295px;
+	 margin: 0 auto;
+	 font-size: 10px;
+ }
+ .team table tr td{
+	 text-align: center;
+ 	 width: 190px;
+ 	 height: 215px;
+ }
+ .team table img{
+ 	 width: 190px;
+ 	 height: 215px;
+ }
+ /* 这是服务流程 */
+ .seven{
+	 height: 210px;
+	 color: #FFFFFF;
+	 background-color: #333333;
+ }
+ .seven .lllo{
+ 	 width: 825px;
+	 height: 60px;
+	 margin: 0 auto;
+ }
+ .seven .lllo img{
+ 	 width: 825px;
+ 	 height: 60px;
+ }
+ /* 这是服务承诺 */
+ .yes{
+ 	 height: 290px;
+	 color: #FFFFFF;
+ }
+ .yes ul{
+	 margin-top: 30px;
+ 	margin-left: 80px;
+ }
+ .yes ul li{
+	 display: inline-block;
+	 margin-left: 20px;
+	 opacity: 50%;
+ }
+ .yes ul li img{
+	 width: 120px;
+	 height: 120px;
+ 	border-radius: 50%;
+ }
+ .yes ul li p{
+	 margin-left: 15px;
+ 	 position: relative;top: -75px;
+ } 
+ /* 这是我们的客户 */
+ .cour{
+ 	 height: 345px;
+ 	 background-color: #CC0000;
+ }
+ .cour ul{
+	 width: 845px;
+	 height: 200px;
+	 margin: 0 auto;
+	 margin-top: 20px;
+ }
+ .cour ul li{
+ 	 width: 115px;
+ 	 height: 55px;
+	 display: inline-block;
+	 margin-left: 15px;
+	 margin-top: 10px;
+ }
+ .cour ul li img{
+ 	 width: 115px;
+ 	 height: 55px;
+ }
+ .cour ul p{
+	 color: #FFFFFF;
+ 	 text-align: center;
+ }
+ /* 这是媒体报道 */
+ .f3{
+ 	 height: 325px;
+ }
+ .f3 ul{
+ 	width: 885px;
+ 	height: 290px;
+	margin-left: 80px;
+	padding-top:25px;
+ }
+ .f3 ul li{
+ 	width: 270px;
+ 	height: 285px;
+ 	margin-left: 20px;
+	font-size: 13px;
+	display: inline-block;
+ }
+ .f3 ul .ss{
+ 	position: relative;top: 12px;
+ }
+ .f3 ul li span{
+ 	margin-left: 216px;
+	position: relative;top: -20px;
+ }
+ .f3 ul li hr{
+ 	width: 100%;
+	margin: 10px 0;
+	background-color: #CC0000;
+	border: 2px solid #CC0000;
+ }
+ .f3 ul li p{
+ 	line-height: 18px;
+ }
+ .f3 ul li .rek{
+ 	width: 270px;
+ 	height: 90px;
+ }
+ .f3 ul li .rek img{
+ 	float: left;
+ }
+ /* 这是脚部 */
+ #foot{
+	 height: 230px;
+	 background-color: #333333;
+ }
+ #foot ul{
+	 width: 550px;
+ 	 height: 200px;
+	 padding-top: 30px;
+	 margin-left: 80px;
+ }
+ #foot ul li{
+ 	 width: 130px;
+ 	 height: 200px;
+	 display: inline-block;
+	 color: #FFFFFF;
+	 margin-left: 2px;
+	 font-size: 15px;
+ }
+ #foot ul .f{
+ 	 position: relative;top: -75px;
+ }
+ #foot ul .fff{
+ 	 position: relative;top: -50px;
+ }
+ #foot ul .ffff{
+ 	 position: relative;top: -50px;
+ }
+ #foot ul li hr{
+	 background-color: #999999;
+ 	border: 1px solid #999999;
+ }
+ #foot ul li .hr{
+	 width: 20px;
+	 position: relative;top: -2px;
+ 	 background-color: #CC0000;
+ 	border: 1px solid #CC0000;
+ }
+ #foot ul li p{
+ 	line-height: 25px;
+ }
+ #foot .nubmer{
+	 width: 350px;
+	 height: 230px;
+ 	 margin-left: 650px;
+	 margin-top: -230px;
+ 	 background-color: #000000;
+ }
+ #foot .nubmer img{
+ 	margin: 20px 20px;
+ }
+ #foot .nubmer div{
+ 	 width: 200px;
+	 height: 35px;
+	 color: #FFFFFF;
+	 margin-left: 20px;
+ 	 background-color: #CC0000;
+ }
+ #foot .nubmer div p{
+ 	 text-align: center;
+	 line-height: 35px;
+ }
+ /* 这是脚部 */
+ #footer{
+ 	 height: 65px;
+	 background-color: #666666;
+ }
+ #footer p{
+ 	color: #FFFFFF;
+	margin-left: 100px;
+	padding-top: 20px;
+ }
+ /* 这是脚部 */
+ #footest{
+ 	 height: 35px;
+	 background-color: #333333;
+ }
+ #footest p{
+	 color: #FFFFFF;
+ 	 text-align: center;
+	 line-height: 35px;
+ }
+ /* 这是关于我们页面 */
+ #contained{
+	 width: 1000px;
+	 height: 694px;
+	 margin: 0 auto;
+ }
+ /* 这是关于我们 */
+ .our{
+	 width: 100%;
+	 height: 225px;
+ }
+ .our ul{
+ 	 width: 118px;
+ 	 height: 185px;
+	 margin-left: 80px;
+	padding-top: 30px;
+ }
+ .our ul li{
+ 	 width: 115px;
+ 	 height: 45px;
+	 text-align: center;
+	 line-height: 45px;
+ 	 border-bottom: 1px solid #DCDCDC;
+ }
+ .our ul img{
+ 	 width: 115px;
+ 	 height: 85px;
+ }
+ .our div{
+ 	 width: 720px;
+ 	 height: 195px;
+ 	 margin-left: 200px;
+	 margin-top: -190px;
+	 font-size: 15px;
+	 text-shadow: #DCDCDC;
+	 border: 2px solid #DCDCDC;
+ }
+ .our  div hr{
+ 	 width: 670px;
+ 	 margin-left: 15px;
+	 margin-top: 20px;
+	 background-color: #DCDCDC;
+ 	 border-bottom: 1px solid #DCDCDC;
+ }
+ .our div p{
+ 	 text-indent: 2em;
+	 line-height: 20px;
+ }
+ /* 这是服务项目页面 */
+ #contenter{
+	 width: 1000px;
+	 height: 2030px;
+	 margin: 0 auto;
+ }
+ 
+ .recev{
+	 width: 100%;
+	 height: 560px;
+ }
+ .recev .ul{
+ 	 width: 840px;
+ 	 height: 25px;
+	 margin-left:80px ;
+ 	 background-color: #DCDCDC;
+ }
+ .recev .ul li{
+ 	 width: 80px;
+ 	 height: 25px;
+	 text-align: center;
+	 display: inline-block;
+	 line-height: 25px;
+ }
+ .recev table{
+ 	 width: 880px;
+ 	 height: 470px;
+ 	 margin-left:80px ;
+	 margin-top: 20px;
+ }
+ .recev table img{
+ 	 width: 275px;
+ 	 height: 175px;
+ }
+ .recev div {
+ 	 width: 450px;
+ 	 line-height: 35px;
+ 	 margin-left:300px ;
+ }
+ .recev  div ul li{
+ 	 text-align: center;
+ 	 display: inline-block;
+ 	 line-height: 35px;
+	 border: 1px solid #DCDCDC;
+ }
+.recev  div ul .sy{
+ 	 width: 50px;
+ 	 height: 35px;
+ }
+ .recev  div ul .s{
+ 	 width: 30px;
+ 	 height: 35px;
+ }
+ .recev  div ul .y{
+ 	 width: 55px;
+ 	 height: 35px;
+ }
+ .recev  div ul .sys{
+ 	 width: 85px;
+ 	 height: 35px;
+ }
+ /* 这是客户案例页面 */
+ #contented{
+ 	 width: 1000px;
+ 	 height: 1155px;
+ 	 margin: 0 auto;
+ }
+ .cas{
+	 width: 1000px;
+	 height:690px;
+ }
+ 
+ .cas .ou{
+ 	 width: 118px;
+ 	 height:450px;
+	 margin-left: 80px;
+ }
+.cas .ou ul{
+ 	 width: 118px;
+ 	 height: 450px;
+	 padding-top: 30px;
+ }
+.cas .ou ul li{
+ 	 width: 115px;
+ 	 height: 45px;
+ 	 text-align: center;
+ 	 line-height: 45px;
+ 	 border-bottom: 1px solid #DCDCDC;
+ }
+.cas .ou ul img{
+ 	 width: 115px;
+ 	 height: 85px;
+ }
+.cs{
+	width: 725px;
+	height: 665px;
+	margin-left: 200px;
+	margin-top: -420px;
+	text-shadow: #DCDCDC;
+	border: 1px solid #DCDCDC;
+} 
+.cs hr{
+ 	 width: 670px;
+ 	 margin-left: 15px;
+ 	 margin-top: 20px;
+ 	 background-color: #DCDCDC;
+ 	 border-bottom: 1px solid #DCDCDC;
+ }
+ .cs table{
+	 width: 690px;
+	 height: 565px;
+ }
+ .cs table p{
+ 	text-align: center;
+ }
+ .cs table img{
+ 	 width: 190px;
+ 	 height: 140px;
+ }
+ .cs  div ul li{
+  	 text-align: center;
+  	 display: inline-block;
+  	 line-height: 35px;
+ 	 border: 1px solid #DCDCDC;
+  }
+ .cs div ul .sy{
+  	 width: 50px;
+  	 height: 35px;
+  }
+ .cs  div ul .s{
+  	 width: 30px;
+  	 height: 35px;
+  }
+ .cs  div ul .y{
+  	 width: 55px;
+  	 height: 35px;
+  }
+ .cs  div ul .sys{
+  	 width: 85px;
+  	 height: 35px;
+  }
+ /* 这是新闻中心 */
+#content{
+	width: 1000px;
+	height: 950px;
+	margin: 0 auto;
+}
+ .ns{
+	 width: 1000px;
+	 height: 480px;
+ }
+ .ns .sun{
+ 	 width: 650px;
+ 	 height: 480px;
+	 margin-left: 80px;
+	 border: 10px solid #DCDCDC;
+ }
+ .ns .sun h3{
+ 	 text-align: center;
+ }
+ .ns .sun span{
+ 	 margin-left: 250px;
+ }
+ .ns .sun hr{
+ 	 margin: 10px;
+ }
+ .ns .sun img{
+ 	 margin: 15px;
+ }
+ .ns .sun p{
+ 	 text-indent: 2em;
+ }
+ .ns .side{
+ 	 width: 195px;
+ 	 height: 480px;
+ 	 margin-left: 750px;
+	 margin-top: -500px;
+	 background-color: #2E8B57;
+	 background-color: #DCDCDC;
+ }
+ .ns .side div{
+ 	 width: 190px;
+ 	 height: 80px;
+	 font-size: 5px;
+	 margin: 5px;
+	 background-color:#FFFFFF;
+ 	border-top: 5px solid #CC0000;
+ }
+ .ns .side div h4{
+ 	 text-align: center;
+ }
+ .ns .side div p{
+	 margin: 10px;
+ 	 text-align: center;
+ }
+ .ns .side div span{
+ 	 margin-left: 50px;
+ }
+ /* 这是新闻列表页面 */
+ #contentest{
+	 width: 1000px;
+	 height: 1242px;
+	 margin: 0 auto;
+ }
+ .newlist{
+	 width: 1000px;
+	 height: 770px;
+ }
+ .cas .cs table div{
+	 height: 95px;
+	 margin-left: 180px;
+	 margin-top: -130px;
+	 font-size: 12px;
+	 color: #000000;
+ }
+ .cas .cs table div i{
+ 	float: right;
+	margin: 15px;
+ }
+ .cas .cs table div strong{
+	 position: relative;top: 15px;
+ 	margin: 15px;
+ }
+ .cas .cs table .img img{
+	 width: 155px;
+	 height: 95px;
+	 position: relative;top: -30px;
+ }

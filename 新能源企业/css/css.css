@@ -1,0 +1,559 @@
+a{
+	text-decoration: none;
+	color: #000000;
+}
+li{ 
+	list-style: none;
+} 
+*{
+	padding: 0;
+	margin: 0;
+}
+#container{
+	width: 1880px;
+	height: 4569px;
+	margin: 0 auto;
+	font-size: 20px;
+}
+#header #head .banner .than .procenter .news .shows .show #foot{
+	width: 100%;
+}
+/* 这是顶部 */
+#header{
+	height:35px ;
+	color: #FFFFFF;
+	background: url(../img/header.jpg)no-repeat;
+}
+#header p{
+	margin-left: 360px;
+}
+#header ul{
+	width: 300px;
+	margin-top: -30px;
+	margin-left: 1240px;
+}
+#header ul li{
+	width: 80px;
+	height: 35px;
+	display: inline-block;
+	text-align: center;
+	line-height: 35px;
+	margin-left: 10px;
+}
+
+/* 这是导航栏 */
+#head{
+	height: 100px;
+}
+#head .logo{
+	margin-left: 375px;
+}
+#head .logo img{
+	margin-top: 30px;
+}
+#head ul{
+	width: 930px;
+	color: #000000;
+	margin-top: -50px;
+	margin-left: 630px;
+}
+#head ul li{
+	width: 80px;
+	margin-left: 10px;
+	display: inline-block;
+	text-align: center;
+}
+#head ul  a:hover{
+	color: #0066CC;
+}
+/* 这是banner图 */
+.banner{
+	height: 615px;
+	background-color: lawngreen;
+}
+/* 这是我们产品优势对比 */
+.than{
+	height: 1133px;
+}
+.thans{
+	width: 1500px;
+	height: 460px;
+	margin: 0 auto;
+}
+.thans h1{
+	text-align: center;
+	color: #0066cc;
+	margin: 20px;
+}
+.thans ul{
+	width: 1500px;
+	height: 335px;
+	margin: 0 auto;
+}
+.thans ul li{
+	width: 350px;
+	display: inline-block;
+}
+.thans ul li img{
+	margin-left: 100px;
+}
+.thans ul li h3{
+	text-align: center;
+}
+.thans ul li h4{
+	text-align: center;
+}
+.thans ul li p{
+	text-align: center;
+}
+/* 这是关于我们 */
+.than .aboutus{
+	width: 1500px;
+	height: 600px;
+	margin: 0 auto;
+	margin-top: 30px;
+}
+.than .aboutus .garyl{
+	width: 1140px;
+	height: 180px;
+	margin: 0 auto;
+	margin-top: 35px;
+	background-color: #cccccc;
+}
+.than .aboutus .garyl img{
+	margin-left: 500px;
+	margin-top: -132px;
+}
+.than .aboutus .garyl ul {
+	margin-left: 50px;
+}
+.than .aboutus .garyl ul .blue{
+	background-color: #0066CC;
+	color: white;
+}
+.than .aboutus .garyl ul .blueb{
+	color: #333333;
+}
+.than .aboutus .garyl ul .blueb h3{
+	color: #0066CC;
+}
+.than .aboutus .garyl ul li{
+	width: 150px;
+	height: 85px;
+	margin-top: 50px;
+	margin-left: 15px;
+	text-align: center;
+	display: inline-block;
+}
+.than .aboutus .garyl ul li h3{
+	font-size: 30px;
+}
+.than .aboutus .font{
+	width: 1140px;
+	height: 240px;
+	margin: 0 auto;
+	line-height: 40px;
+	margin-top: 42px;
+}
+/* 这是产品中心 */
+.procenter{
+	height: 487px;
+	color: #FFFFFF;
+	background: url(../img/procenter.jpg)no-repeat;
+	background-color: lawngreen;
+}
+.procenter h3{
+	padding-top: 30px;
+	text-align: center;
+	background: url(../img/h3.png)no-repeat;
+}
+.procenter p{
+	margin: 15px;
+	text-align: center;
+}
+.procenter ul{
+	width: 1160px;
+	height: 225px;
+	margin: 0 auto;
+	margin-top: 40px;
+}
+.procenter ul li{
+	width: 260px;
+	height: 200px;
+	display: inline-block;
+	margin-left: 20px;
+}
+.procenter button{
+	width: 130px;
+	height: 30px;
+	line-height: 30px;
+	margin-left: 875px;
+	margin-top: 25px;
+	color: #FFFFFF;
+	font-size: 20px;
+	background-color: #0066CC;
+	border: 1px solid #FFFFFF;
+}
+/* 这是新闻资讯 */
+.news{
+	height:733px ;
+	background: url(../img/newsbg.jpg)no-repeat;
+}
+.ct{
+	text-align: center;
+}
+.news .tw{
+	width: 840px;
+	height: 440px;
+	margin-left: 450px;
+	margin-top: 30px;
+}
+.news .tw ul{
+	margin-left: 480px;
+	margin-top: -450px;
+}
+.news .tw ul li{
+	height: 50px;
+	margin-top: 5px;
+	line-height: 50px;
+}
+.news button{
+	width: 130px;
+	height: 30px;
+	line-height: 30px;
+	margin-left: 875px;
+	margin-top: 55px;
+	color: #333333;
+	font-size: 20px;
+	background-color: #FFFFFF;
+	border: 1px solid #333333;
+}
+/* 这是案例展示 */
+.shows{
+	height: 1400px;
+}
+.show{
+	height: 255px;
+	background: url(../img/shows.jpg)no-repeat;
+}
+.shows .show3{
+	width: 1275px;
+	height: 520px;
+	margin: 0 auto;
+}
+.shows .show3 .one{
+	width: 230px;
+	height:280px;
+	color: #0066CC;
+	background-color: #FFFFFF;
+	margin-left: 30px;
+	position: relative;top: -120px;
+	border: 1px solid #CCCCCC;
+}
+.shows .show3 .one h2{
+	text-align: center;
+	padding-top: 15px;
+}
+.shows .show3 .one span{
+	color: #333333;
+	text-align: center;
+}
+.shows .show3 .one hr{
+	margin: 15px 0;
+	border: 1px solid #CCCCCC;
+}
+.shows .show3 .one li{
+	width: 180px;
+	height:70px;
+	margin: 0 auto;
+	margin-top: 20px;
+	line-height: 50px;
+	border-bottom: 1px solid #CCCCCC;
+}
+.shows .show3 .z{
+	width:600px;
+	height:480px;
+	margin-left: 260px;
+	margin-top: -285px;
+}
+.shows .show3 .two{
+	width:290px;
+	height:345px;
+	margin-left: 860px;
+	margin-top: -495px;
+	background-color: #CCCCCC;
+}
+.shows .show3 .two h3{
+	margin: 15px;
+}
+.shows .show3 .two p{
+	text-indent: 2em;
+	line-height: 30px;
+}
+.shows .callus{
+	width: 1275px;
+	height: 620px;
+	margin: 0 auto;
+	margin-top: 25px;
+}
+.shows .callus ul li{
+	width: 375px;
+	height: 460px;
+	margin-left: 40px;
+	font-size: 20px;
+	display: inline-block;
+}
+.shows .callus ul li p input{
+	width: 330px;
+	height: 45px;
+	border: 1px solid #333333;
+	margin: 10px 0;
+}
+.shows .callus ul li p textarea{
+	width: 330px;
+	height: 210px;
+	border: 1px solid #333333;
+	margin: 10px 0;
+}
+.shows .callus ul li p button{
+	width: 330px;
+	height: 45px;
+	color: #FFFFFF;
+	border: 0;
+	letter-spacing: 10px;
+	background-color: #0066CC;
+}
+.shows .yeal p{
+}
+.shows .yeal img{
+	margin-top: 25px;
+}
+/* 这是脚部 */
+#foot{
+	height: 74px;
+	background-color: #333333;
+	color: #FFFFFF;
+}
+#foot p{
+	text-align: center;
+	line-height: 74px;
+}
+/* 这是新闻资讯列表页面 */
+#contained{
+	width: 1880px;
+	height: 2085px;
+	margin: 0 auto;
+}
+.longer{
+	width: 100%;
+	height: 635px;
+}
+/* 这是最新动态 */
+.alonggray{
+	width: 100%;
+	height: 65px;
+	background-color: #CCCCCC;
+}
+.alonggray ul{
+	width: 900px;
+	margin-left: 200px;
+}
+.alonggray ul li{
+	width: 135px;
+	height: 50px;
+	display: inline-block;
+	text-align: center;
+	margin-left: 15px;
+	margin-top: 10px;
+	border-right: 1px solid #333333;
+}
+.alonggray ul li h2{
+	color: #0066CC;
+}
+/* 这是新闻列表 */
+.list{
+	width: 100%;
+	height: 570px;
+}
+.list ul{
+	margin-left: 200px;
+}
+.list ul li{
+	padding-top: 30px;
+}
+.list p{
+	margin-top: 25px;
+	margin-left: 180px;
+}
+/* 这是新闻资讯页面 */
+#contenter{
+	width: 1880px;
+	height: 5742px;
+	margin: 0 auto;
+}
+/* 这是文章 */
+.polove{
+	width: 100%;
+	height: 4215px;
+}
+.polove .love{
+	width: 1360px;
+	height: 4200px;
+	margin: 0 auto;
+}
+.polove .love h1{
+	margin-top: 30px;
+	text-align: center;
+}
+.polove .love p{
+	font-size: 30px;
+	margin-top: 20px;
+	line-height: 44px;
+}
+/* 这是在线留言页面 */
+#contented{
+	width: 1880px;
+	height:2034px;
+	margin: 0 auto;
+}
+/* 这是客户留言 */
+.submit{
+	width: 100%;
+	height:530px;
+}
+.submit .subt{
+	width: 500px;
+	height:470px;
+	margin: 0 auto;
+	margin-top: 30px;
+}
+.submit .subt h3{
+	text-align: center;
+}
+.submit .subt p input{
+	width: 490px;
+	height: 45px;
+	border: 1px solid #333333;
+	margin: 10px 0;
+}
+.submit .subt p textarea{
+	width: 490px;
+	height: 210px;
+	border: 1px solid #333333;
+	margin: 10px 0;
+}
+.submit .subt p button{
+	width: 490px;
+	height: 45px;
+	color: #FFFFFF;
+	border: 0;
+	letter-spacing: 10px;
+	background-color: #0066CC;
+}
+/* 这是加入我们招聘页面 */
+#content{
+	width: 1880px;
+	height:2441px;
+	margin: 0 auto;
+}
+/* 这是招聘 */
+.mage{
+	width: 100%;
+	height: 930px;
+}
+.mage img{
+	margin-top: 20px;
+	margin-left: 620px;
+}
+/* 这是产品中心页面 */
+/* 这是图片 */
+.img{
+	width:100% ;
+	height: 550px;
+}
+.img ul{
+	width:1200px;
+	height: 445px;
+	margin: 0 auto;
+	margin-top: 30px;
+}
+.img ul li{
+	margin-top: 10px;
+	margin-left: 15px;
+	display: inline-block;
+}
+.img p{
+	/* margin-top: 10px; */
+	margin-left: 360px;
+}
+/* 这是产品中心图片页面 */
+.eight{
+	width: 100%;
+	height: 780px;
+}
+.lan{
+	color: #FFFFFF;
+	background-color: #0066CC;
+}
+ .alonggray .lan h2{
+	color: #FFFFFF;
+}
+.eight .eights{
+	width: 1130px;
+	height: 740px;
+	margin: 0 auto;
+	margin-top: 30px;
+}
+.eight .eights h2{
+	text-align: center;
+}
+.eight .eights img{
+	width: 435px;
+	height: 360px;
+	margin-left: 330px;
+}
+.eight .eights p{
+	margin-top: 20px;
+	line-height: 35px;
+}
+/* 这是联系我们页面 */
+.callour{
+	width: 300px;
+	height: 225px;
+	margin-top: 30px;
+	margin-left: 400px;
+}
+.callour p{
+	line-height: 30px;
+}
+/* 这是案例展示2页面 */
+.imgs{
+	width:100% ;
+	height: 550px;
+}
+.imgs h1{
+	margin-top: 30px;
+	text-align: center;
+}
+.imgs img{
+	width: 410px;
+	height: 310px;
+	margin-top: 30px;
+	margin-left: 735px;
+}
+.imgs p{
+	margin-left: 380px;
+	margin-top: 30px;
+	line-height: 30px;
+}
+/* 这是关于我们页面 */
+.about{
+	width:1100px;
+	height: 255px;
+	margin: 0 auto;
+}
+.about p{
+	font-size: 20px;
+	margin-top: 20px;
+	line-height: 30px;
+}

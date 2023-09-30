@@ -1,0 +1,282 @@
+a{
+	text-decoration: none;
+}
+li{
+	list-style: none;
+}
+*{
+	margin: 0;
+	padding: 0;
+}
+.container{
+	width: 1279px;
+	height: 2245px;
+	margin: 0 auto;
+	background-color: gainsboro;
+}
+/* 这是头部 */
+.header{
+	width: 100%;
+	height: ;
+	background-color: #333333;
+}
+.header img{
+	margin-left: 100px;
+}
+.header .severs{
+	width: 250px;
+	height: 35px;
+	float: right;
+	margin-right: 100px;
+	margin-top: 10px;
+}
+.header .severs input{
+	width: 250px;
+	height: 35px;
+	
+}
+/* 这是导航栏 */
+.head{
+	width: 100%;
+	height: 50px;
+	background-color: white;
+}
+.head .nav{
+	width: 885px;
+	height: 50px;
+	text-align: center;
+	margin-left: 100px;
+}
+.head .nav ul li{
+	width: 110px;
+	height: 50px;
+	margin-left: 30px;
+	line-height: 50px;
+	text-align: center;
+	display: inline-block;
+}
+/* 这是主体 */
+.main{
+	width: 1060px;
+	height:2010px ;
+	margin: 0 auto;
+}
+/* 这是banner图 */
+.banner{
+	width: 785px;
+	height: 380px;
+	margin: 10px 0px;
+}
+/* 这是热门推荐 */
+.hot{
+	width:785px;
+	height:275px;
+	margin: 10px 0px;
+	background-color: white;
+}
+.hot table{
+	width: 780px;
+	height: 250px;
+	text-align: center;
+}
+/* 这是游戏攻略 */
+.game{
+	width: 785px;
+	height:450px;
+	background-color: white;
+	margin: 10px 0px;
+}
+.game table{
+	width: 780px;
+	height: 425px;
+	
+}
+.game table img{
+	float: left;
+}
+/* 这是常用软件 */
+.often{
+	width: 785px;
+	height:330px;
+	background-color: white;
+	margin: 10px 0px;
+}
+.often table{
+	width: 780px;
+	height: 300px;
+	text-align: center;
+}
+/* 这是游戏资讯 */
+.new{
+	width:785px;
+	height:400px;
+	margin: 10px 0px;
+	background-color: white;
+}
+.new li{
+	line-height: 30px;
+}
+/* 这是友情链接 */
+.friendlink{
+	width: 785px;
+	height: 80px;
+	margin: 10px 0px;
+	background-color: white;
+}
+.main h3{
+	padding-top:10px;
+}
+.friendlink li{
+	height: 40px;
+	line-height: 40px;
+	display: inline-block;
+	text-align: center;
+	margin-left: 15px;
+}
+/* 这是立即下载 */
+.down{
+	width: 245px;
+	height: 910px;
+	float: right;
+	background-color: white;
+	margin-top: -1970px;
+	margin-right: 10px;
+}
+.down table{
+	width: 240px;
+	height: 880px;
+}
+.down table img{
+	float: left;
+}
+ table input{
+	width: 120px;
+	height: 25px;
+	color: white;
+	border: 0;
+	border-radius: 10px;
+	line-height: 25px;
+	text-align: center;
+	background-color: #66ccff;
+}
+.downs{
+	width: 245px;
+	height: 910px;
+	float: right;
+	margin-right: 20px;
+	margin-top: -2070px;
+	background-color: white;
+}
+.downs table{
+	width: 240px;
+	height: 880px;
+}
+.downs table img{
+	float: left;
+}
+/* 这是本周最热 */
+.week{
+	width: 250px;
+	height: 920px;
+	float: right;
+	background-color: white;
+	margin-top: -1040px;
+	margin-right: 10px;
+}
+.week table{
+	width: 230px;
+	height: 890px;
+}
+.week img{
+	float: left;
+}
+.weeks{
+	width: 250px;
+	height: 920px;
+	float: right;
+	background-color: white;
+	margin-top: -1100px;
+	margin-right: 20px;
+}
+.weeks table{
+	width: 230px;
+	height: 890px;
+}
+.weeks img{
+	float: left;
+}
+/* 这是脚部 */
+.foot{
+	width:100%;
+	height: 110px;
+	color: #CCCCCC;
+	background-color: #000033;
+}
+.foot img{
+	margin-left: 100px;
+	margin-top: 10px;
+}
+.foot .nav{
+	width: 550px;
+	margin-left: 300px;
+	margin-top: -100px;
+}
+.foot .nav li{
+	display: inline-block;
+	margin: 10px 30px;
+}
+.foot p{
+	margin-left: 300px;
+	line-height: 25px;
+}
+/* 这是文字 */
+@font-face {
+	font-family: 'iconfont';
+	src: url('../css/iconfont.woff2?t=1639404697373') format('woff2'),
+	url('../css/iconfont.woff?t=1639404697373') format('woff'),
+	url('../css/iconfont.ttf?t=1639404697373') format('truetype');
+}
+.iconfont {
+	font-family: "iconfont" !important;
+	font-size: 16px;
+	font-style: normal;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+/* 这是手机游戏 */
+.mains{
+	width: 1200px;
+	height: 2115px;
+	margin: 0 auto;
+	margin-top: 10px;
+}
+.iphonegame{
+	width: 900px;
+	height: 2130px;
+	background-color: #66CCFF;
+}
+.ss{
+	width: 900px;
+	height: 2100px;
+	
+	background-color: white;
+}
+.ss li{
+	width: 80px;
+	height: 40px;
+	text-align: center;
+	line-height: 40px;
+	margin-left: 10px;
+	display: inline-block;
+}
+.ss h3{
+	margin-left: 10px;
+}
+.ss img{
+	float: left;
+	margin: 0 10px;
+}
+.ss table{
+	width: 900px;
+	height: 2000px;
+}

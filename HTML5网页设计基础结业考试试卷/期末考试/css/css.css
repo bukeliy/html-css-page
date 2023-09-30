@@ -1,0 +1,264 @@
+a {
+	text-decoration: none;
+}
+
+li {
+	list-style: none;
+}
+
+*{
+	margin: 0;
+	padding: 0;
+}
+#container {
+	width:1692px ;
+	height:2126px ;
+	margin: 0 auto;
+}
+/* 这是头部 */
+#header {
+	width: 100%;
+	height: 170px;
+}
+#header .logo {
+	width: 230px;
+	position: relative;top: 100px;
+	margin-left: 260px;
+}
+#header .people{
+	width: 390px;
+	height: 110px;
+	background-color: #ff6633;
+	color: white;
+	margin-left: 1300px;
+	text-align: center;
+	line-height: 110px;
+	font-size: larger;
+}
+#header .people img{
+	vertical-align: middle;
+}
+/* 这是导航栏 */
+#head{
+	width: 100%;
+	height: 60px;
+}
+#head .nav {
+	width:900px ;
+	height: 70px;
+	text-align: center;
+	margin-left: 120px;
+}
+#head .nav ul li {
+	width: 120px;
+	height: 70px;
+	line-height: 80px;
+	text-align: center;
+	margin-left: 10px;
+	display: inline-block;
+}
+#head.nav ul li a{
+	 color: #000000;
+ }
+#head .nav ul li a:hover{
+	 color: #f40;
+ }
+/* 这是主体 */
+/* #main {
+	width: 100%;
+	height: 1650px;
+	background-color: #008000;
+} */
+/* 这是banner图 */
+.banner {
+	width: 100%;
+	height: 618px;
+	color: white;
+	background-size: 100%;
+}
+.banner img{
+	width: 100%;
+}
+.banner h1{
+	font-size: 50px;
+	margin-left: 450px;
+	position: relative;top: -550px;
+}
+.banner p input{
+	width: 570px;
+	height: 90px;
+	color: white;
+	font-size: 20px;
+	margin-left: 510px;
+	position: relative;top: -500px;
+	background-color: gray;
+	border-radius: 50px;
+	border: 0;
+	opacity: 70%;
+}
+.banner p button{
+	width: 220px;
+	height: 90px;
+	border: 0;
+	color: white;
+	position: relative;top: -450px;
+	margin-left: 650px;
+	font-size: 20px;
+	text-align: center;
+	background-color: #ff6633;
+	border-radius: 50px;
+}
+/* 这是白色 */
+#long{
+	width: 100%;
+	height: 40px;
+}
+/* 这是盒子 */
+#six{
+	width: 100%;
+	height: 996px;
+	background-color: #DCDCDC;
+}
+/* 这是盒子 */
+#six .home{
+	width: 100%;
+	height: 450px;
+	font-size: 20px;
+}
+.home ul li{
+	width: 390px;
+	height: 430px;
+	margin-left: 20px;
+	border-radius: 4px;
+	background-color: white;
+	display: inline-block;
+}
+.home ul p,h3,span{
+	text-align: center;
+}
+.home ul p{
+	margin: 10px;
+}
+.home ul .green .meny{
+	width: 100px;
+	height: 50px;
+	border-radius: 50px;
+	background-color: #339966;
+	color: white;
+	margin-left: 250px;
+	text-align: center;
+	line-height: 50px;
+	position: relative;top: -240px;
+}
+.home ul .house{
+	margin-left: 150px;
+	margin-top: -50px;
+}
+.home ul .green h3{
+	color: green;
+}
+.home ul .green hr{
+	width: 100%;
+	margin-top: -50px;
+	background-color: #008000;
+	border: 2px solid green;
+}
+.home ul .yellow h3{
+	color: #ff9933;
+}
+.home ul .yellow hr{
+	width: 100%;
+	background-color: #ff9933;
+	border: 2px solid #ff9933;
+}
+.home ul .purp h3{
+	color: purple;
+}
+.home ul .purp hr{
+	width: 100%;
+	background-color: purple;
+	border: 2px solid purple;
+}
+/* 这是盒子 */
+#six .stay{
+	width: 100%;
+	height: 485px;
+	font-size: 20px;
+}
+.stay ul li{
+	width: 820px;
+	height: 480px;
+	border-radius: 4px;
+	display: inline-block;
+	margin-left: 15px;
+	background-color: white;
+}
+ .stay ul li .font{
+	width: 580px;
+	height: 200px;
+	margin-left: 120px;
+	margin-top: -100px;
+}
+ .stay ul li .font p{
+	 line-height: 35px;
+ }
+ .stay ul li .font h3{
+	margin-left:-480px;
+	margin-top: 10px;
+ }
+.stay ul li span{
+	color: white;
+	margin-left: 200px;
+	position: relative;top: -50px;
+}
+.stay ul li hr{
+	margin-top: -30px;
+}
+.stay .left hr{
+	background-color: #008000;
+	border: 2px solid green;
+}
+.stay .right hr{
+	background-color: #FF9933;
+	border: 2px solid #FF9933;
+}
+.stay ul li .hm{
+	margin-left: 30px;
+	position: relative;top: -80px;
+}
+.stay ul li .ren{
+	margin-top: 50px;
+	margin-left: -80px;
+	border-radius: 50%;
+}
+/* 这是脚部 */
+#foot {
+	width:100% ;
+	height: 245px;
+	background: url(../img/footer.jpg)no-repeat;
+	color: white;
+	font-size: 20px;
+}
+#foot p{
+	line-height: 30px;
+}
+#foot .box1 .box2{
+	width: 240px;
+	height: 200px;
+}
+#foot .box1{
+	margin-left: 200px;
+}
+#foot .box2{
+	margin-top: -160px;
+	margin-left: 500px;
+}
+#foot .box3{
+	width: 280px;
+	height: 200px;
+	margin-left: 1400px;
+	margin-top: -130px;
+}
+#foot .box3 div{
+	margin: 10px;
+}

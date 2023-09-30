@@ -1,0 +1,42 @@
+*{margin: 0;padding: 0;}
+.container{width: 1280px;height: 1594px;background-color:white;margin: 0 auto;}
+.header{height: 45px;width:1280px;background-color: #33cc66;}
+span{font-size: small;color: white;}
+.zz{padding-left: 53px;padding-top:10px;float: left;}
+.zz img{vertical-align: middle;}
+.yy img{vertical-align: middle;}
+.yy{padding-right: 53px;float: right;padding-top:10px;}
+.header2{height: 114px;background-color:white;}
+.header2 img{padding-left: 55px;padding-top: 30px;}
+.nav{width:800px;float: right;}
+.nav ul{list-style: none;}
+.nav ul li{width: 93px;height: 58px;display: inline-block;padding-top: 40px;}
+.main{background-color: white ;}
+.main img{width: 100%;height: 468px;margin-top: -17px;}
+.box{width: 1000px;height:200px ;display: inline-block;}
+.box1{width: 254px;height: 287px;background-color: #f6f8f7;float: left; ;margin-top: -60px;margin-left: 50px;}
+.box2{width: 254px;height: 287px;background-color: #f6f8f7;float: left;margin-left: 50px;margin-top: -60px;margin-top: -60px;}
+.box3{width: 254px;height: 287px;background-color: #f6f8f7;float: left;margin-left: 50px;margin-top: -60px;}
+.box4{width: 254px;height: 287px;background-color:#f6f8f7;float: right;margin-top: -60px;margin-right: -210px;}
+hr{color: #33CC66;size: a5; }
+.box1 img{width: 25px;height: 30px;padding-top: 30px;padding-left: 100px; }
+.box2 img{width: 25px;height: 30px;padding-top: 30px;padding-left: 100px;}
+.box3 img{width: 25px;height: 30px;padding-top: 30px;padding-left: 100px;}
+.box4 img{width: 25px;height: 30px;padding-top: 30px;padding-left: 100px;}
+p1{font-size: large;font-weight:bold ; line-height: 100px;padding-left: 50px;padding-top: 30px;}
+p2{font-size: small; padding-bottom: 30px;line-height: 50px; padding-left: 50px;}
+.box5{width: 763px;height: 218px;margin-left: 200px;}
+.box5 span{color: #33CC66;font-weight: bolder;font-size: large;}
+.box5 h2{font-weight: bolder;text-align: center;}
+p3{font-size: 10px;font-weight: bold;padding-left: 220px;}
+p4{font-size: 5px;padding-left: 150px;}
+.box6{width: 548px;height: 407px;margin-top: 150px;padding-left: 80px; }
+input{width: 350px;height: 30px; border: gainsboro solid 1px;text-indent: 2em;color: #DCDCDC;}
+p{line-height: 50px;}
+textarea{width: 350px;height: 80px;border: gainsboro solid 1px;text-indent: 2em;color: #DCDCDC;padding-right: 10px;}
+button{width: 80px;height: 35px;background-color: #33CC66;border: none;color: #FFFFFF;letter-spacing: 10px;}
+.box7{width: 548px;height: 407px;  float: right;margin-right: -200px;margin-top: -400px;}
+.box7 img{width: 500px;height: 300px; }
+.footer{width:1280px;height: 78px;background-color: black;}
+span{  }
+.foot{width: 100%;height: 30px; color: white;font-size: small;}

@@ -1,0 +1,51 @@
+{
+  "id": "2952743",
+  "name": "陈劲生",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "599927",
+      "name": "微博",
+      "font_class": "weibo",
+      "unicode": "e66b",
+      "unicode_decimal": 58987
+    },
+    {
+      "icon_id": "8106273",
+      "name": "timeout",
+      "font_class": "timeout",
+      "unicode": "e6a2",
+      "unicode_decimal": 59042
+    },
+    {
+      "icon_id": "11488080",
+      "name": "map",
+      "font_class": "map",
+      "unicode": "e758",
+      "unicode_decimal": 59224
+    },
+    {
+      "icon_id": "11882860",
+      "name": "bg-qrCode",
+      "font_class": "bg-qrCode",
+      "unicode": "e63c",
+      "unicode_decimal": 58940
+    },
+    {
+      "icon_id": "12012147",
+      "name": "user center",
+      "font_class": "usercenter",
+      "unicode": "e7b4",
+      "unicode_decimal": 59316
+    },
+    {
+      "icon_id": "25760257",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e6a0",
+      "unicode_decimal": 59040
+    }
+  ]
+}
